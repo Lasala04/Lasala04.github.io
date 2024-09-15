@@ -87,6 +87,18 @@ button{
     font-weight: bold;
 }
 
+button-2{
+    background-color: orange;
+    border: none;   
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 65%;
+    left: 22%;
+    padding: 7px 15px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
 .c{
     position: absolute;
     top: 50%;
